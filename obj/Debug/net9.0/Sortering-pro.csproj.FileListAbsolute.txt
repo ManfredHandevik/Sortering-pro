@@ -12,3 +12,4 @@ C:\Programmering\Sortering-pro\obj\Debug\net9.0\refint\Sortering-pro.dll
 C:\Programmering\Sortering-pro\obj\Debug\net9.0\Sortering-pro.pdb
 C:\Programmering\Sortering-pro\obj\Debug\net9.0\Sortering-pro.genruntimeconfig.cache
 C:\Programmering\Sortering-pro\obj\Debug\net9.0\ref\Sortering-pro.dll
+C:\Programmering\Sortering-pro\obj\Debug\net9.0\Sortering-pro.sourcelink.json
