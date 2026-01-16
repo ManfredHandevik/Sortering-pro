@@ -10,9 +10,9 @@ class Program
 
         Random rnd = new Random();
 
-        for (int i = 0; i < 100000; i++)
+        for (int i = 0; i < 10; i++)
         {
-            numbers.Add(rnd.Next(0, 1000000));
+            numbers.Add(rnd.Next(0, 100));
         }
 
         Stopwatch sw = Stopwatch.StartNew();
@@ -36,7 +36,7 @@ class Program
         {
             Console.Write(number + " ");
         }
-        Console.WriteLine($"\nTid för sortering: {sw.ElapsedMilliseconds} ms");
-        Console.WriteLine($"Tid för sortering: {sw.ElapsedTicks} ticks");
+        Console.WriteLine();
+        Console.WriteLine($"Tid för sortering: {sw.Elapsed.TotalSeconds:F6} sekunder");
     }
 }

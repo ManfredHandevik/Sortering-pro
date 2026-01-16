@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programmering\\Sortering-pro\\Sortering-pro.csproj": {}
+    "C:\\Programmering\\BubbleSort-pro\\Sortering-pro.csproj": {}
   },
   "projects": {
-    "C:\\Programmering\\Sortering-pro\\Sortering-pro.csproj": {
+    "C:\\Programmering\\BubbleSort-pro\\Sortering-pro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programmering\\Sortering-pro\\Sortering-pro.csproj",
+        "projectUniqueName": "C:\\Programmering\\BubbleSort-pro\\Sortering-pro.csproj",
         "projectName": "Sortering-pro",
-        "projectPath": "C:\\Programmering\\Sortering-pro\\Sortering-pro.csproj",
+        "projectPath": "C:\\Programmering\\BubbleSort-pro\\Sortering-pro.csproj",
         "packagesPath": "C:\\Users\\maha08005\\.nuget\\packages\\",
-        "outputPath": "C:\\Programmering\\Sortering-pro\\obj\\",
+        "outputPath": "C:\\Programmering\\BubbleSort-pro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maha08005\\AppData\\Roaming\\NuGet\\NuGet.Config"
